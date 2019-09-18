@@ -1,0 +1,27 @@
+{
+  "name": "vue-enums",
+  "version": "1.0.0",
+  "description": "Easily use TypeScript enums in Vue SFC templates",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davestewart/vue-enums.git"
+  },
+  "keywords": [
+    "typescript",
+    "vue",
+    "enums"
+  ],
+  "peerDependencies": {
+    "vue": "latest"
+  },
+  "author": "Dave Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davestewart/vue-enums/issues"
+  },
+  "homepage": "https://github.com/davestewart/vue-enums#readme"
+}
